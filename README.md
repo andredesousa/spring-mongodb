@@ -9,8 +9,8 @@ Classified as a NoSQL database program, MongoDB uses JSON-like documents with op
 *CRUD* is an acronym that comes from the world of computer programming and refers to the four functions that are considered necessary to implement a persistent storage application: *create*, *read*, *update* and *delete*.
 This project shows how to use **Spring Data** to expose these functions to **MongoDB**.
 
-The **Spring Data** for **MongoDB** project applies core Spring concepts to the development of solutions by using the **MongoDB** search engine.
-It provides a "template" as a high-level abstraction for storing and querying documents.
+The **Spring Data** for **MongoDB** project applies core Spring concepts to the development of solutions by using the MongoDB document database.
+Key functional areas of Spring Data MongoDB are a POJO centric model for interacting with a MongoDB DBCollection and easily writing a Repository style data access layer.
 
 In local development, you need to provide a connection to a MongoDB instance.
 
