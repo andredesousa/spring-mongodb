@@ -97,6 +97,6 @@ For further reference, please consider the following articles:
 - [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 - [Spring Data MongoDB](https://docs.spring.io/spring-boot/docs/2.6.1/reference/htmlsingle/#boot-features-mongodb)
 - [Accessing Data with MongoDB](https://spring.io/guides/gs/accessing-data-mongodb/)
-- [Testing JPA Queries with Spring Boot and @DataJpaTest](https://reflectoring.io/spring-boot-data-jpa-test/)
+- [Introduction to Spring Data MongoDB](https://www.baeldung.com/spring-data-mongodb-tutorial)
 - [Testing with Spring Boot and @SpringBootTest](https://reflectoring.io/spring-boot-test/)
 - [Mockito Tutorial](https://www.baeldung.com/mockito-series)
