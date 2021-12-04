@@ -1,4 +1,4 @@
-# CRUD using Spring Data MongoDB
+# Spring CRUD application with MongoDB
 
 [MongoDB](https://www.mongodb.com/) is a source-available cross-platform document-oriented database program.
 Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
@@ -22,7 +22,6 @@ docker run -d -p 27017:27017 -e MONGO_INITDB_ROOT_USERNAME=root -e MONGO_INITDB_
 
 This project template uses **JUnit 5** and **Mockito** to test a **Spring REST API** using **MongoDB**.
 With the `@SpringBootTest` annotation, Spring Boot provides a convenient way to start up an application context to be used in a test.
-Using the `@DataJpaTest` test slice annotation, you can easily write integration tests for our JPA persistence layer.
 
 ## Project structure
 
